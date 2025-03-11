@@ -1,4 +1,4 @@
-module github.com/upbound/upjet-provider-template
+module github.com/sibtaina/provider-cloudflare-test
 
 go 1.21
 
