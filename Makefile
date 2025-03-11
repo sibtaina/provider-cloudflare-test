@@ -18,6 +18,7 @@ export TERRAFORM_PROVIDER_DOWNLOAD_URL_PREFIX ?= https://github.com/cloudflare/$
 export TERRAFORM_NATIVE_PROVIDER_BINARY ?= terraform-provider-cloudflare_4.52.0
 export TERRAFORM_DOCS_PATH ?= docs/resources
 
+
 PLATFORMS ?= linux_amd64 linux_arm64
 
 # -include will silently skip missing files, which allows us
